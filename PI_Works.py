@@ -2,7 +2,7 @@
 # This program takes the input file path as an argument.
 import sys
 
-# A simple function that determines whether an integer is a prime number or not.
+# A simple function that determines whether if an integer is a prime number or not.
 def isPrime(number):
     if number == 1 or number == 0:
         return False
